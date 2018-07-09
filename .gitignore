@@ -1,6 +1,7 @@
 .idea/
 *.iml
 git-fetch-history
+main
 
 # Binaries for programs and plugins
 *.exe
